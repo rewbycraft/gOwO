@@ -8,7 +8,7 @@ import (
 
 var prefixes = []string{
 	"<3 ",
-	"0w0",
+	"0w0 ",
 	"H-hewwo?? ",
 	"HIIII! ",
 	"Haiiii! ",
